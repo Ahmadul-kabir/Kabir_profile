@@ -21,11 +21,11 @@
 title: Md Ahmadul Kabir
 email: emonkabir100@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site. Currently doing my masters in Technical University of Hamburg. 
+  Welcome to my blog site. Here, I showcase all my data science projects. 
 baseurl: "/Kabir_profile" # the subpath of your site, e.g. /blog
 url: "https://ahmadul_kabir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  Ahmadul-kabir
 
 # Build settings
 theme: minima
